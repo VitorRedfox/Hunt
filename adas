@@ -1,0 +1,35 @@
+[33mcommit 912c722827d91dc9b272616865b7de1d84d42a5e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: VitorRedfox <vitor_pereira.2013@hotmail.com>
+Date:   Sun Jul 28 13:24:26 2019 -0300
+
+    chore: change to space identity
+
+[33mcommit e3d66aa76a40c24c942eac26be07be06e678097c[m
+Author: VitorRedfox <vitor_pereira.2013@hotmail.com>
+Date:   Sun Jul 28 13:11:45 2019 -0300
+
+    feat: list style
+
+[33mcommit f221d77c30c1805ade8dc1b349c66dc23dc38731[m
+Author: VitorRedfox <vitor_pereira.2013@hotmail.com>
+Date:   Sun Jul 28 12:54:35 2019 -0300
+
+    feat: api service
+
+[33mcommit 8cedc870e93e955d71961bbc7c51c12ab814769e[m
+Author: VitorRedfox <vitor_pereira.2013@hotmail.com>
+Date:   Sun Jul 28 12:34:07 2019 -0300
+
+    feat: config routes
+
+[33mcommit 0528a8437ebeea9991223a0ca5050480d9284714[m
+Author: VitorRedfox <vitor_pereira.2013@hotmail.com>
+Date:   Sun Jul 28 10:58:03 2019 -0300
+
+    update readme
+
+[33mcommit 60a7a407080c9ce3d538d0918b4f65dee8ebb60d[m
+Author: VitorRedfox <vitor_pereira.2013@hotmail.com>
+Date:   Sun Jul 28 10:55:24 2019 -0300
+
+    Initial Commit
